@@ -1,0 +1,1 @@
+  /workspace/.vscode-remote/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/7.0.12~x64
